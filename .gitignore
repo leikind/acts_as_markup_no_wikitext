@@ -3,3 +3,4 @@ doc
 pkg
 docs
 .rvmrc
+Gemfile.lock
