@@ -1,7 +1,7 @@
 source "http://rubygems.org"
 
-gem 'activesupport'
-gem 'activerecord'
+# gem 'activesupport'
+# gem 'activerecord'
 gem 'rdiscount'
 gem 'RedCloth'
 
