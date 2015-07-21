@@ -72,3 +72,4 @@ Gem::Specification.new do |s|
       s.add_runtime_dependency(%q<rdiscount>, ["~> 1.3"])
       s.add_runtime_dependency(%q<RedCloth>, ["~> 4.2"])
   
+end
